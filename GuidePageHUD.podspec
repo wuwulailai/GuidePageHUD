@@ -26,5 +26,6 @@ Pod::Spec.new do |spec|
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
-
+  spec.ios.dependency 'CHIPageControl'
+  spec.ios.dependency 'SnapKit'
 end
