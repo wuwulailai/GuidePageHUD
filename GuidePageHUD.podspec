@@ -10,9 +10,8 @@ Pod::Spec.new do |spec|
 
   spec.name         = "GuidePageHUD"
   spec.version      = "0.0.1"
-  spec.summary      = ""
-  spec.description  = <<-DESC
-                   DESC
+  spec.summary      = "iOS 通用引导页"
+  spec.description  = "打造iOS通用引导页"
 
   spec.homepage     = "https://github.com/wuwulailai/GuidePageHUD"
   spec.license      = {:type => "MIT", :file => "LICENSE"}
